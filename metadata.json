@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Roast · Specialty Coffee & Slow Bar",
+  "description": "Artisanal specialty coffee roastery, handcrafted single-origin pour-overs, custom drink builder, tasting flights, and pickup ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
